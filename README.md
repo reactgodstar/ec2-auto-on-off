@@ -21,12 +21,3 @@ AUTO_SCALING_GROUP_NAME = autoscaling group name attached to your EBS environmen
 ```
 
 Here if you didn't change current instance name, instance name will be EBS environment name.
-
-
-
-
-
-
-### Plugins
-
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
